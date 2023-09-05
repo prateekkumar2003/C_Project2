@@ -7,7 +7,7 @@ Features
 3. Keeps track of the game's state and declares the winner.
 
 Usage
-1. Enter the name of Player1 and Player2
+1. There are two players in the game Player1 and Player2
 2. Player1 mark  'X' ans Player2 mark 'O' 
 3. Choose a number between 1 to 9 corresponding to the
    place where you want to mark
