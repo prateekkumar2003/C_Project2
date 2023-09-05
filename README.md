@@ -1,13 +1,11 @@
-# Tic Tac Toe Game
-A simple implementation of the classic Tic Tac Toe game in C language 
+# Static Library for Sort, Min, Max in C 
+A simple implementation of Static Library in C language 
 
 Features
-1. Play Tic Tac Toe against a friend.
-2. Simple and intuitive user interface.
-3. Keeps track of the game's state and declares the winner.
+1. You can sort you array using mySort(int* arr , int n);
+2. one can find the maximum and minimum between two element
 
 Usage
-1. There are two players in the game Player1 and Player2
 2. Player1 mark  'X' ans Player2 mark 'O' 
 3. Choose a number between 1 to 9 corresponding to the
    place where you want to mark
